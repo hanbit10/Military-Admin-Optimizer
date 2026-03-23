@@ -42,7 +42,7 @@ Dieses Tool wurde entwickelt, um militärische Administrationsprozesse zu optimi
 ---
 
 ## 🚀 How to Use
-1. Download the `.xlsx` file from the `/src` folder.
+1. Download the `.xlsx` file.
 2. Input placeholder data into the 'Input' sheet.
 3. Observe the 'Dashboard' sheet for real-time analytics.
 
